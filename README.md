@@ -5,7 +5,9 @@ This is my project for the R Programming Course part of the Udacity Data Analyti
 
 The 3 questions I came up with were:
 -Which stations are the most popular?
+
 -What is the gender breakdown of users per city?
+
 -What is the averege trip duration by birth year?
 
 I included the visualizations in the Images folder
