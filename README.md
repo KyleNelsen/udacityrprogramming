@@ -25,3 +25,19 @@ chicago.csv - Chicago user data
 new-york-city.csv - New York City user data
 
 washington.csv - WashingtonDC user data
+
+----
+
+![gender_breakdown_chi](https://github.com/KyleNelsen/udacityrprogramming/blob/main/Images/g_chi.png)
+
+![gender_breakdown_ny](https://github.com/KyleNelsen/udacityrprogramming/blob/main/Images/g_ny.png)
+
+![top_10_stations_chi](https://github.com/KyleNelsen/udacityrprogramming/blob/main/Images/top_10_chi.png)
+
+![top_10_stations_ny](https://github.com/KyleNelsen/udacityrprogramming/blob/main/Images/top_10_ny.png)
+
+![top_10_stations_wash](https://github.com/KyleNelsen/udacityrprogramming/blob/main/Images/top_10_wash.png)
+
+![birthyear_vs_average_trip_duration_chi](https://github.com/KyleNelsen/udacityrprogramming/blob/main/Images/bytd_chi.png)
+
+![birthyear_vs_average_trip_duration_ny](https://github.com/KyleNelsen/udacityrprogramming/blob/main/Images/bytd_ny.png)
